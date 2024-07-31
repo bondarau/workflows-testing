@@ -1,1 +1,2 @@
 # workflows-testing
+https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdevice42-website-downloadables-prod.s3.us-east-2.amazonaws.com%2Fupdate-180300-to-18.14.00.1711590409.zip.enc&data=05%7C02%7Cbondarau.ruslan%40arelion.com%7C3b89eb1a622e40b97b2708dcaf9b290c%7C37ce80acc6954482bd8d47ede8fe81ba%7C0%7C0%7C638578329565851911%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=jw3FwswLxf6hxREZ3tvXJ2wH59aGyapG%2F3Mkkw4NwfU%3D&reserved=0
